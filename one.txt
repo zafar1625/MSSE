@@ -1,0 +1,7 @@
+ZAFAR IQBAL
+git status
+
+
+
+git add one.txt
+git log
